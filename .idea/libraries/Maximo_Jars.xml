@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Maximo Jars">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Documents/bean/lib" />
+      <root url="file://$USER_HOME$/Documents/businessobjects/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Documents/bean/lib" />
+      <root url="file://$USER_HOME$/Documents/businessobjects/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Documents/bean/lib" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Documents/businessobjects/lib" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Documents/bean/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Documents/businessobjects/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
